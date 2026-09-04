@@ -1,0 +1,6 @@
+{
+  "name": "FoodDeck",
+  "description": "Authentic Nigerian cuisine online ordering web app with live kitchen tracking, dynamic delivery pricing, and kitchen management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
